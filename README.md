@@ -82,7 +82,9 @@ Junior QA Automation Engineer
 
 ## Application Under Test
 
-![Admin Posts Page](screenshots/posts-table.png)
+![Admin Posts Page](screenshots/ScreenPasword.png)
+![Admin Posts Page](screenshots/BUGReoprt_01.png)
+![Admin Posts Page](screenshots/BUGReoprt_02.png)
 
 ## How to Run Tests
 
