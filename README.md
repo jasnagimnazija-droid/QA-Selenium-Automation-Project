@@ -79,3 +79,19 @@ The goal of this project is to demonstrate:
 
 Jasna Katić Komad  
 Junior QA Automation Engineer
+
+## Application Under Test
+
+![Admin Posts Page](screenshots/posts-table.png)
+
+## How to Run Tests
+
+1. Clone repository
+2. Open project in IntelliJ IDEA
+3. Install Maven dependencies
+4. Run TestNG tests
+
+Command:
+
+mvn test
+
