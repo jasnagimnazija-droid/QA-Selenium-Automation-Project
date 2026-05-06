@@ -82,9 +82,9 @@ Junior QA Automation Engineer
 
 ## Application Under Test
 
-[![Admin Posts Page]](https://drive.google.com/file/d/18XxgFh8xk9IIWloyhsxJ2iw-dv2njRxB/view?usp=sharing)(screenshots/ScreenPasword.png)
-[![Admin Posts Page]](https://drive.google.com/file/d/15Hyh30PUQVVRbRCPTtXD0XOKNbO639hc/view?usp=sharing)(screenshots/BUGReoprt_01.png)
-![Admin Posts Page](screenshots/BUGReoprt_02.png)
+[screenshots/ScreenPasword.png]](https://drive.google.com/file/d/18XxgFh8xk9IIWloyhsxJ2iw-dv2njRxB/view?usp=sharing)
+[screenshots/BUGReoprt_01.png]](https://drive.google.com/file/d/15Hyh30PUQVVRbRCPTtXD0XOKNbO639hc/view?usp=sharing)
+[screenshots/BUGReoprt_02.png]([screenshots/BUGReoprt_02.png](https://drive.google.com/drive/u/0/folders/1rw5WTjMq-dCxi5L7sZKVwtAWXuAZpLgS))
 
 ## How to Run Tests
 
